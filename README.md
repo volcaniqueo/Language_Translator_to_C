@@ -38,12 +38,12 @@ Finally run the executable with:
 
 ```./prog```
 
-It will print the result of th designated operations on the console.
+It will print the result of the designated operations on the console.
 
 ## Final Remarks
-1) We have forgotten to cover two scenerios: '#' character is not at the beginning of the input file & Allow to re/assign single elements of a matrix/vector. That is why, unfortunately, test cases, testcase7.mat & testcase28.mat, will fail to create the designated C file and give an 'Error' statement on the console.
+We have forgotten to cover two scenerios: '#' character is not at the beginning of the input file & Allow to re/assign single elements of a matrix/vector. That is why, unfortunately, test cases, testcase7.mat & testcase28.mat, will fail to create the designated C file and give an 'Error' statement on the console.
 
-2) After either, 'make' command or 'gcc' command you may see warnings about:
+After either, 'make' command or 'gcc' command you may see warnings about:
 
 ```non-void function does not return a value in all control paths``` 
 
