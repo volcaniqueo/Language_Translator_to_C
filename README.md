@@ -26,7 +26,7 @@ Now we have the executable file called matlang2c. Thus, test the input file with
 
 ```./matlang2c inputfile.mat```
 
-In this stage if the given input does not syntactically comply with the matlang language, you will see a error on the console:
+In this stage if the given input does not syntactically comply with the matlang language, you will see an error on the console:
 
 ```Error (Line <line_number>)```
 
