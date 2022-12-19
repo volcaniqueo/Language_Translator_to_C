@@ -5,7 +5,7 @@ In this project we (me and my group partner) have implemented a translator for a
 ## Personal Thoughts About the Code
 I personally found this project to be hard, since it is basically implementation of almost a compiler. Additional hardness comes from the fact that it was our very first project in C language. Although these complexities, I think our implementation of the BNF recursively is very well designed. (But I accept it is not very self-explanatory.) But in the main part we could not follow good programming practices since it involves many if-else conditions and not very well designed. (Although the design is not very well, it covers nearly all the situations with some exceptions that are given in the 'Final Remarks' part.) This is mainly because the strict timing issues regaring with the project.
 ## To Run the Code
-First to avoid issues regarding with the line endings, one should be sure about the format of the input file. To be on the safe side, one should install 'dos2unix' in order to make the conversion.
+First, to avoid issues regarding with the line endings, one should be sure about the format of the input file. To be on the safe side, one should install 'dos2unix' in order to make the conversion.
 Example brew formulae as follows:
 
 ```brew install dos2unix```
