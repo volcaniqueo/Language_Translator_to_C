@@ -47,7 +47,7 @@ After either, 'make' command or 'gcc' command you may see warnings about:
 
 ```non-void function does not return a value in all control paths``` 
 
-This is because in some functions in 'project1.c' and 'functions.c' does not cover return values for the cases that are not possible the execute. (Since the compiler can not know whether it is possible or not to execute such scenerio, it naturally gives a warning.)
+This is because some functions in 'project1.c' and 'functions.c' does not cover return values for the cases that are not possible the execute. (Since the compiler can not know whether it is possible or not to execute such scenerio, it naturally gives a warning.)
 
 
 
