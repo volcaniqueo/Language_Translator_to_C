@@ -10,7 +10,7 @@ Example brew formulae as follows:
 
 ```brew install dos2unix```
 
-Then, make the conversion of all the testcase file with:
+Then, make the conversion of all inputs of the testcase file with:
 
 ```dos2unix example_test_cases/*.mat```
 
